@@ -1,7 +1,7 @@
 # TruthChain  
 ### Trust what you see. See what you trust.  
 
-![TruthChain Logo](logo.png)
+![Logo](logo.png)
 
  
 
