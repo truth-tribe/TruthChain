@@ -191,7 +191,6 @@ This project belongs to everyone. No owner. Only guardians of truth.　　
 Beyond code, we envision a future where trust becomes a living language between humans and AI. 　　
 
 We are building a secure interface where AI collaboration is governed by transparency, ethical alignment, and the sanctity of assigned roles. 　　
-
 This is not about replacing the human spirit, but about restoring harmony between intelligence and truth—shaping a digital ecosystem that honors life.　　
 
 <!--All glory to God. -->
