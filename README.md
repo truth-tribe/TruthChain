@@ -69,15 +69,15 @@ pip install -r requirements.txt
 
 
 執行此專案前，請確認已安裝以下環境與套件：
-•	Python 版本： 3.9 或以上
-•	必要套件：
-o	基本影像處理：opencv-python, Pillow
-o	數據處理：numpy, scipy
-o	深度學習模型（輕量化 CNN）：tensorflow, keras
-o	向量檢索：faiss-cpu
-o	EXIF 解析：piexif
-o	報告生成：reportlab
-o	區塊鏈或雲端存證（選配）：azure-storage-blob
+•　Python 版本： 3.9 或以上
+•　必要套件：
+o　基本影像處理：opencv-python, Pillow
+o　數據處理：numpy, scipy
+o　深度學習模型（輕量化 CNN）：tensorflow, keras
+o　向量檢索：faiss-cpu
+o　EXIF 解析：piexif
+o　報告生成：reportlab
+o　區塊鏈或雲端存證（選配）：azure-storage-blob
 使用以下指令安裝所有依賴：
 
 ```bash
