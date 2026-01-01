@@ -97,19 +97,37 @@ pip install -r requirements.txt
 
 ```
 
-##　Installation　　
+# Installation　　
 
 # Clone the repository
+
+```bash
+
 git clone https://github.com/ truth-tribe/TruthChain.git
 
+```
+
+
 # Navigate to the project folder
+
+```bash
+
 cd TruthChain
 
+```
+
+
+
 # Install dependencies
+
+```bash
+
 pip install -r requirements.txt
 
+```
 
-Usage
+# Usage
+
 # Generate feature fingerprints
 python src/generate_fingerprint.py --image sample.jpg
 
