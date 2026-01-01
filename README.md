@@ -9,11 +9,14 @@
 
 
 ## Lore & Vision  
-The digital world is fractured; the Golden Law of Truth lies broken. 
-This is not just code—it is a covenant to restore what was lost. 
+The digital world is fractured; the Golden Law of Truth lies broken.　　
+
+This is not just code—it is a covenant to restore what was lost.　　
+
 We seek not lone wanderers, but a fellowship of "Tarnished" ready to reconnect as one body.
 
-Will you rise? 
+Will you rise?　　
+
 Join us in forging the chain that binds truth across the digital realm.
 
 數位世界已經破碎，真實的黃金律法崩毀於虛假的蔓延。　　
