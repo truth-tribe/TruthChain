@@ -1,0 +1,24 @@
+
+# Basic Image Processing
+opencv-python==4.8.0.76
+Pillow==10.0.0
+
+# Data Processing
+numpy==1.24.3
+scipy==1.11.1
+
+# Deep Learning Models (Lightweight CNN)
+tensorflow==2.13.0
+keras==2.13.1
+
+# Vector Search
+faiss-cpu==1.7.4
+
+# EXIF Parsing
+piexif==1.1.3
+
+# Report Generation
+reportlab==4.0.4
+
+# Blockchain or Cloud Storage (Optional)
+azure-storage-blob==12.16.0
