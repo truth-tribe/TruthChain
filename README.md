@@ -137,10 +137,20 @@ pip install -r requirements.txt
 # Usage
 
 ## Generate feature fingerprints
+
+```bash
+
 python src/generate_fingerprint.py --image sample.jpg
 
+```
+
 ## Verify image authenticity
+
+```bash
+
 python src/verify_image.py --image suspect.jpg
+
+```
 
 # Technical Skeleton　　
 
