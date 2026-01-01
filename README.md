@@ -159,7 +159,7 @@ This is not about replacing the human spirit, but about restoring harmony betwee
 
  
 
-![TruthChain](TruthChain.png)
+![assets](TruthChain.png)
 
 
 
