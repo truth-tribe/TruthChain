@@ -55,8 +55,8 @@ To run this project, please ensure the following dependencies are installed:
   - Report Generation: reportlab  
   - Blockchain or Cloud Storage (Optional): azure-storage-blob  
 
-Install all dependencies using:  
-``` bash
+Install all dependencies using:
+```bash
 pip install -r requirements.txt
 
 
