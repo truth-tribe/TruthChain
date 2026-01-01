@@ -134,18 +134,27 @@ python src/generate_fingerprint.py --image sample.jpg
 ## Verify image authenticity
 python src/verify_image.py --image suspect.jpg
 
-Technical Skeleton
-•	src/generate_fingerprint.py → SHA256, pHash, EXIF
-•	src/verify_image.py → pHash & feature vector comparison
-•	src/deep_feature_extraction.py → MobileNetV2 for deep features
-•	db/schema.sql → PostgreSQL schema
+# Technical Skeleton　　
+
+•	src/generate_fingerprint.py → SHA256, pHash, EXIF　　
+
+•	src/verify_image.py → pHash & feature vector comparison　　
+
+•	src/deep_feature_extraction.py → MobileNetV2 for deep features　　
+
+•	db/schema.sql → PostgreSQL schema　　
+
 •	api_flask.py → Flask API for verification endpoint
 
 # Call to Action
-Join the tribe. Build for hope and love.
-Fork the repo. Share your ideas. Build with us. Protect truth together.
-加入部落，為了希望與愛。
-Fork 專案、分享你的想法、與我們一起建構，守護真實。
+Join the tribe. Build for hope and love.　　
+
+Fork the repo. Share your ideas. Build with us. Protect truth together.　　
+
+加入部落，為了希望與愛。　　
+
+Fork 專案、分享你的想法、與我們一起建構，守護真實。　　
+
 
 # Keywords
 Digital Forensics, Image Authentication, Photo Tampering Detection, Perceptual Hash, Deep Feature Embedding, EXIF Analysis, AI Tampering Detection, Blockchain Security, Azure AI.
@@ -154,8 +163,10 @@ Digital Forensics, Image Authentication, Photo Tampering Detection, Perceptual H
 ## MIT License
 
 # Anonymous Declaration
-This project belongs to everyone. No owner. Only guardians of truth.
-沒有擁有者，只有守護真實的人。
+This project belongs to everyone. No owner. Only guardians of truth.　　
+
+沒有擁有者，只有守護真實的人。　　
+
 
 
 
@@ -175,17 +186,23 @@ This project belongs to everyone. No owner. Only guardians of truth.
 
 
 # Future Covenant: A Shared Language of Integrity
-Beyond code, we envision a future where trust becomes a living language between humans and AI. 
-We are building a secure interface where AI collaboration is governed by transparency, ethical alignment, and the sanctity of assigned roles. 
-This is not about replacing the human spirit, but about restoring harmony between intelligence and truth—shaping a digital ecosystem that honors life.
+Beyond code, we envision a future where trust becomes a living language between humans and AI. 　　
+
+We are building a secure interface where AI collaboration is governed by transparency, ethical alignment, and the sanctity of assigned roles. 　　
+
+This is not about replacing the human spirit, but about restoring harmony between intelligence and truth—shaping a digital ecosystem that honors life.　　
+
 <!--All glory to God. -->
 <!-- In humility, we build; in His time, it flourishes. -->
 
 
 # 未來盟約：誠信的共同語言
-超越程式碼，我們期望未來「信任」成為人類與 AI 之間流動的生命語言。 
-我們正在建立一個安全的協作介面，讓 AI 系統在透明、倫理、以及對「職分」的敬畏中運行。 
-這並非取代人類的靈魂，而是在智慧與真實之間找回和諧——塑造一個尊重生命秩序的數位生態。
+超越程式碼，我們期望未來「信任」成為人類與 AI 之間流動的生命語言。 　　
+
+我們正在建立一個安全的協作介面，讓 AI 系統在透明、倫理、以及對「職分」的敬畏中運行。 　　
+
+這並非取代人類的靈魂，而是在智慧與真實之間找回和諧——塑造一個尊重生命秩序的數位生態。　　
+
 <!--願一切榮耀歸於神。 -->
 <!--在謙卑中，我們建造；在祂的時間裡，它必興旺。-->
 
