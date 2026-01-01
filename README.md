@@ -56,8 +56,11 @@ To run this project, please ensure the following dependencies are installed:
   - Blockchain or Cloud Storage (Optional): azure-storage-blob  
 
 Install all dependencies using:
+
 ```bash
+
 pip install -r requirements.txt
+
 ```
 
 
