@@ -160,7 +160,7 @@ Fork 專案、分享你的想法、與我們一起建構，守護真實。　　
 Digital Forensics, Image Authentication, Photo Tampering Detection, Perceptual Hash, Deep Feature Embedding, EXIF Analysis, AI Tampering Detection, Blockchain Security, Azure AI.
 
 # License
-## MIT License
+MIT License
 
 # Anonymous Declaration　　
 
