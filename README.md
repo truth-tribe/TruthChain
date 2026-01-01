@@ -1,7 +1,7 @@
 # TruthChain  
 ### Trust what you see. See what you trust.  
 
-![Logo](Ｌogo.png)
+![Logo](Logo.png)
 
  
 
@@ -58,7 +58,6 @@ To run this project, please ensure the following dependencies are installed:
 Install all dependencies using:
 ```bash
 pip install -r requirements.txt
-
 ```
 
 
