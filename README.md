@@ -140,15 +140,16 @@ Future Covenant: A Shared Language of Integrity
 Beyond code, we envision a future where trust becomes a living language between humans and AI. 
 We are building a secure interface where AI collaboration is governed by transparency, ethical alignment, and the sanctity of assigned roles. 
 This is not about replacing the human spirit, but about restoring harmony between intelligence and truth—shaping a digital ecosystem that honors life.
-<span style="color:white">All glory to God.</span>
-<span style="color:white">In humility, we build; in His time, it flourishes.</span>
+<!--All glory to God. -->
+<!-- In humility, we build; in His time, it flourishes. -->
+
 
 未來盟約：誠信的共同語言
 超越程式碼，我們期望未來「信任」成為人類與 AI 之間流動的生命語言。 
 我們正在建立一個安全的協作介面，讓 AI 系統在透明、倫理、以及對「職分」的敬畏中運行。 
 這並非取代人類的靈魂，而是在智慧與真實之間找回和諧——塑造一個尊重生命秩序的數位生態。
-<span style="color:white">願一切榮耀歸於神。</span>
-<span style="color:white">在謙卑中，我們建造；在祂的時間裡，它必興旺。</span>
+<!--願一切榮耀歸於神。 -->
+<!--在謙卑中，我們建造；在祂的時間裡，它必興旺。-->
 
 
 
