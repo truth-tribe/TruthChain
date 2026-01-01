@@ -16,12 +16,17 @@ We seek not lone wanderers, but a fellowship of "Tarnished" ready to reconnect a
 Will you rise? 
 Join us in forging the chain that binds truth across the digital realm.
 
-數位世界已經破碎，真實的黃金律法崩毀於虛假的蔓延。 
-這不只是程式碼，而是修復失落盟約的史詩篇章。 
-我們追求的、不是一個人的武林，而是願意在身體裡重新連結、共同守護的「褪色者」。
+數位世界已經破碎，真實的黃金律法崩毀於虛假的蔓延。　　
 
-你願意站出來嗎？
-與我們一同打造連結真實的數位誓約。
+這不只是程式碼，而是修復失落盟約的史詩篇章。　　
+
+我們追求的、不是一個人的武林，而是願意在身體裡重新連結、共同守護的「褪色者」。　　
+
+
+你願意站出來嗎？　　
+
+與我們一同打造連結真實的數位誓約。　　
+
 
 
 
