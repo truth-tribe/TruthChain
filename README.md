@@ -205,8 +205,6 @@ This project belongs to everyone. No owner. Only guardians of truth.　　
 
 
 # Future Covenant: A Shared Language of Integrity　　
-# 未來盟約：誠信的共同語言　　
-
 
 Beyond code, we envision a future where trust becomes a living language between humans and AI. 　　
 
@@ -220,6 +218,7 @@ This is not about replacing the human spirit, but about restoring harmony betwee
 
 
 
+# 未來盟約：誠信的共同語言　　
 
 超越程式碼，我們期望未來「信任」成為人類與 AI 之間流動的生命語言。 　　
 
