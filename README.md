@@ -162,7 +162,8 @@ Digital Forensics, Image Authentication, Photo Tampering Detection, Perceptual H
 # License
 ## MIT License
 
-# Anonymous Declaration
+# Anonymous Declaration　　
+
 This project belongs to everyone. No owner. Only guardians of truth.　　
 
 沒有擁有者，只有守護真實的人。　　
@@ -185,7 +186,8 @@ This project belongs to everyone. No owner. Only guardians of truth.　　
 
 
 
-# Future Covenant: A Shared Language of Integrity
+# Future Covenant: A Shared Language of Integrity　　
+
 Beyond code, we envision a future where trust becomes a living language between humans and AI. 　　
 
 We are building a secure interface where AI collaboration is governed by transparency, ethical alignment, and the sanctity of assigned roles. 　　
@@ -196,7 +198,8 @@ This is not about replacing the human spirit, but about restoring harmony betwee
 <!-- In humility, we build; in His time, it flourishes. -->
 
 
-# 未來盟約：誠信的共同語言
+未來盟約：誠信的共同語言　　
+
 超越程式碼，我們期望未來「信任」成為人類與 AI 之間流動的生命語言。 　　
 
 我們正在建立一個安全的協作介面，讓 AI 系統在透明、倫理、以及對「職分」的敬畏中運行。 　　
