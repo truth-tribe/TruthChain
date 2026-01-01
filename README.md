@@ -79,9 +79,14 @@ o	EXIF 解析：piexif
 o	報告生成：reportlab
 o	區塊鏈或雲端存證（選配）：azure-storage-blob
 使用以下指令安裝所有依賴：
+
+```bash
+
 pip install -r requirements.txt
 
-##Installation
+```
+
+##　Installation
 # Clone the repository
 git clone https://github.com/ truth-tribe/TruthChain.git
 
